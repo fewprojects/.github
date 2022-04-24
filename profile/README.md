@@ -1,6 +1,6 @@
 # Few Projects 👋
 
-A public organization of Ope-source front end projects
+A public organization of Ope-source front end projects by [theankitnet](https://theankitnet.com)
 <!--
 
 **Here are some ideas to get you started:**
